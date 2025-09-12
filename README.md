@@ -112,12 +112,8 @@ Our vision is to create a user-friendly, secure, and efficient decentralized tok
 
 We welcome contributions from the community! Please read our contributing guidelines and submit pull requests for any improvements.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+contract details :- 0x3019FB3a6233aE9488A2293a59d0BFb54a1BfbcD
 
 <img width="1735" height="847" alt="image" src="https://github.com/user-attachments/assets/9d244a93-962b-47e7-b31f-9418c9afa22c" />
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-## contract details
-0x3019FB3a6233aE9488A2293a59d0BFb54a1BfbcD
+
