@@ -121,8 +121,9 @@ We welcome contributions from the community! Please read our contributing guidel
 
 ## License
 
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+<img width="1735" height="847" alt="image" src="https://github.com/user-attachments/assets/9d244a93-962b-47e7-b31f-9418c9afa22c" />
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-**Disclaimer**: This is a demonstration project. Please conduct thorough testing and auditing before deploying to mainnet. Cryptocurrency investments carry risk, and past performance does not guarantee future results.
