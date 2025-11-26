@@ -110,7 +110,7 @@ Our vision is to create a user-friendly, secure, and efficient decentralized tok
 
 ## Contributing
 
-We welcome contributions from the community! Please read our contributing guidelines and submit pull requests for any improvements.
+We welcome contributions from the community! Please read our contributing guidelines and submit pull requests for any improvements..
 
 contract details :- 0x3019FB3a6233aE9488A2293a59d0BFb54a1BfbcD
 
